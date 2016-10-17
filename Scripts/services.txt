@@ -1,0 +1,15 @@
+diagnosticshub.standardcollector.service
+DiagTrack
+dmwappushservice
+HomeGroupListener
+HomeGroupProvider
+lfsvc
+MapsBroker
+NetTcpPortSharing
+RemoteAccess
+RemoteRegistry
+retaildemo
+SharedAccess
+TrkWks
+WbioSrvc
+WMPNetworkSvc
